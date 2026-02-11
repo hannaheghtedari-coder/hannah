@@ -230,3 +230,4 @@ Questions:
  -R, Recursive Listing, is a flag that would allow for recursive listing or copying through the directory pathway (see cp -r example)
  -l, for Long Format Listing, is a flag that would not only list the contents but would include more details. (especially useful if files have similar names and need to quickly differentiate)
 '''
+# checkoff : GitBash
