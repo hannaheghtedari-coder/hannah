@@ -1,0 +1,26 @@
+# File Name: Brainstorming for Final Project 
+Topic Ideas:
+1. Mars Reverse Greenhouse Gas Effect
+2. Moon Phases (Sidereal vs Synodic) Animation
+3. Gravitational Microlensing
+4. Materials in Saturn's Rings
+5. Mapping the Tilt of the Moon's Orbit (Eclipses)
+
+
+More Info:
+1. Saturn's Rings: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL078575
+    The article indicates that Saturn's rings are 95% water-ice, which extends Saturn's Atmosphere and effectively leaks into it.
+2. Moon's Orbit: https://svs.gsfc.nasa.gov/5326/ 
+    NASA article/ video describing the moon's orbital tilt and how it changes over time. I think this would be a good way to explore the animation packages.
+3. Mars' Climate: https://www-mars.lmd.jussieu.fr/mcd_python/ database where you can request parameters to output data, and I think it can oiutput both data and plots so we could use this data to practice our own plots too.
+
+Python Skills:
+
+Use loops to go through open-soyrec atmospheric data; create a conditional where if above a certain amount of CO_2 increase or temperature, it could get mapped as a different color on the graph.
+Use matplotlib with said atmospheric data, github repo for multiple different plots/ data functions (one for each variable)
+Data analysis through conditionals and numpy arrays (if in array, etc)
+
+Project Ideas:
+1. Animation of proposed manipulations to Mars' Atmosphere to make it hospitable for humans (what variables change to produce desrired outcome)
+2. Comparing the Greenhouse Gas Effects on Mars, Earth, and Venus (plots of CO_2, pressure, etc)
+
