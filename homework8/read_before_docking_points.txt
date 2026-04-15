@@ -1,0 +1,4 @@
+I messed up when moving from homework8 branch to main (and before that with the homework 7 and 8 branches).
+This directory just kinda lives here, and on main, and every branch i make based on main.
+Katie knows that I made this problem. Last time I went to Office Hours she said it'd be okay then I made the problem worse so idk.
+
